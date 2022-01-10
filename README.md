@@ -1,2 +1,3 @@
-# CV
-min egen CV
+Min CV.
+
+Den ska kunna finnas i olika versioner.
