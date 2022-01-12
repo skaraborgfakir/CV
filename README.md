@@ -9,3 +9,5 @@ two_column_2022 är i ett tvåkolumn-format inspirerad av Kevin Fox (fury.com) C
 
 adressen till git repo är :
 https://github.com/skaraborgfakir/CV/
+
+This should be a english-language version of two_column
