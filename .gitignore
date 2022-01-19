@@ -274,3 +274,6 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+# tag inte med den formatterade PDF:n
+cv.pdf
